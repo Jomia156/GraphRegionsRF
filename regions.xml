@@ -1,0 +1,2439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regions_graph>
+  <DATA_RECORD>
+    <root_region_name>Ненецкий автономный округ</root_region_name>
+    <node_region_name>Архангельская область</node_region_name>
+    <root_kladr>83</root_kladr>
+    <node_kladr>29</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ненецкий автономный округ</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>83</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ханты-Мансийский автономный округ - Югра</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>86</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ямало-Ненецкий автономный округ</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>89</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ямало-Ненецкий автономный округ</root_region_name>
+    <node_region_name>Ненецкий автономный округ</node_region_name>
+    <root_kladr>89</root_kladr>
+    <node_kladr>83</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ханты-Мансийский автономный округ - Югра</root_region_name>
+    <node_region_name>Свердловская область</node_region_name>
+    <root_kladr>86</root_kladr>
+    <node_kladr>66</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ненецкий автономный округ</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>83</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ханты-Мансийский автономный округ - Югра</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>86</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ханты-Мансийский автономный округ - Югра</root_region_name>
+    <node_region_name>Томская область</node_region_name>
+    <root_kladr>86</root_kladr>
+    <node_kladr>70</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ямало-Ненецкий автономный округ</root_region_name>
+    <node_region_name>Ханты-Мансийский автономный округ - Югра</node_region_name>
+    <root_kladr>89</root_kladr>
+    <node_kladr>86</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ненецкий автономный округ</root_region_name>
+    <node_region_name>Ямало-Ненецкий автономный округ</node_region_name>
+    <root_kladr>83</root_kladr>
+    <node_kladr>89</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ханты-Мансийский автономный округ - Югра</root_region_name>
+    <node_region_name>Ямало-Ненецкий автономный округ</node_region_name>
+    <root_kladr>86</root_kladr>
+    <node_kladr>89</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ханты-Мансийский автономный округ - Югра</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>86</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ямало-Ненецкий автономный округ</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>89</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чукотский автономный округ</root_region_name>
+    <node_region_name>Республика Саха (Якутия)</node_region_name>
+    <root_kladr>87</root_kladr>
+    <node_kladr>14</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чукотский автономный округ</root_region_name>
+    <node_region_name>Камчатский край</node_region_name>
+    <root_kladr>87</root_kladr>
+    <node_kladr>41</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Еврейская автономная область</root_region_name>
+    <node_region_name>Амурская область</node_region_name>
+    <root_kladr>79</root_kladr>
+    <node_kladr>28</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Еврейская автономная область</root_region_name>
+    <node_region_name>Хабаровский край</node_region_name>
+    <root_kladr>79</root_kladr>
+    <node_kladr>27</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пермский край</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>59</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Республика Тыва</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>17</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пермский край</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>59</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пермский край</root_region_name>
+    <node_region_name>Удмуртская Республика</node_region_name>
+    <root_kladr>59</root_kladr>
+    <node_kladr>18</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пермский край</root_region_name>
+    <node_region_name>Свердловская область</node_region_name>
+    <root_kladr>59</root_kladr>
+    <node_kladr>66</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пермский край</root_region_name>
+    <node_region_name>Республика Башкортостан</node_region_name>
+    <root_kladr>59</root_kladr>
+    <node_kladr>02</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Краснодарский край</root_region_name>
+    <node_region_name>Ростовская область</node_region_name>
+    <root_kladr>23</root_kladr>
+    <node_kladr>61</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Краснодарский край</root_region_name>
+    <node_region_name>Республика Адыгея (Адыгея)</node_region_name>
+    <root_kladr>23</root_kladr>
+    <node_kladr>01</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Краснодарский край</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>23</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Краснодарский край</root_region_name>
+    <node_region_name>Карачаево-Черкесская Республика</node_region_name>
+    <root_kladr>23</root_kladr>
+    <node_kladr>09</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Ростовская область</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>61</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Краснодарский край</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>23</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Республика Калмыкия</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>08</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Республика Дагестан</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>05</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Чеченская Республика</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>20</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Республика Северная Осетия - Алания</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>15</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Кабардино-Балкарская Республика</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>07</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ставропольский край</root_region_name>
+    <node_region_name>Карачаево-Черкесская Республика</node_region_name>
+    <root_kladr>26</root_kladr>
+    <node_kladr>09</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Хабаровский край</root_region_name>
+    <node_region_name>Приморский край</node_region_name>
+    <root_kladr>27</root_kladr>
+    <node_kladr>25</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Алтайский край</root_region_name>
+    <node_region_name>Новосибирская область</node_region_name>
+    <root_kladr>22</root_kladr>
+    <node_kladr>54</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Алтайский край</root_region_name>
+    <node_region_name>Республика Алтай</node_region_name>
+    <root_kladr>22</root_kladr>
+    <node_kladr>04</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Алтайский край</root_region_name>
+    <node_region_name>Кемеровская область - Кузбасс</node_region_name>
+    <root_kladr>22</root_kladr>
+    <node_kladr>42</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Томская область</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>70</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Кемеровская область - Кузбасс</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>42</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Ханты-Мансийский автономный округ - Югра</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>86</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Ямало-Ненецкий автономный округ</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>89</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Республика Хакасия</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>19</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Иркутская область</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>38</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Красноярский край</root_region_name>
+    <node_region_name>Республика Саха (Якутия)</node_region_name>
+    <root_kladr>24</root_kladr>
+    <node_kladr>14</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Забайкальский край</root_region_name>
+    <node_region_name>Иркутская область</node_region_name>
+    <root_kladr>75</root_kladr>
+    <node_kladr>38</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Забайкальский край</root_region_name>
+    <node_region_name>Республика Саха (Якутия)</node_region_name>
+    <root_kladr>75</root_kladr>
+    <node_kladr>14</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Забайкальский край</root_region_name>
+    <node_region_name>Республика Бурятия</node_region_name>
+    <root_kladr>75</root_kladr>
+    <node_kladr>03</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Забайкальский край</root_region_name>
+    <node_region_name>Амурская область</node_region_name>
+    <root_kladr>75</root_kladr>
+    <node_kladr>28</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Хабаровский край</root_region_name>
+    <node_region_name>Республика Саха (Якутия)</node_region_name>
+    <root_kladr>27</root_kladr>
+    <node_kladr>14</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Хабаровский край</root_region_name>
+    <node_region_name>Амурская область</node_region_name>
+    <root_kladr>27</root_kladr>
+    <node_kladr>28</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Хабаровский край</root_region_name>
+    <node_region_name>Еврейская автономная область</node_region_name>
+    <root_kladr>27</root_kladr>
+    <node_kladr>79</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Краснодарский край</root_region_name>
+    <node_region_name>Республика Крым</node_region_name>
+    <root_kladr>23</root_kladr>
+    <node_kladr>91</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Приморский край</root_region_name>
+    <node_region_name>Хабаровский край</node_region_name>
+    <root_kladr>25</root_kladr>
+    <node_kladr>27</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Хабаровский край</root_region_name>
+    <node_region_name>Сахалинская область</node_region_name>
+    <root_kladr>27</root_kladr>
+    <node_kladr>65</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Хабаровский край</root_region_name>
+    <node_region_name>Магаданская область</node_region_name>
+    <root_kladr>27</root_kladr>
+    <node_kladr>49</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Камчатский край</root_region_name>
+    <node_region_name>Сахалинская область</node_region_name>
+    <root_kladr>41</root_kladr>
+    <node_kladr>65</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Камчатский край</root_region_name>
+    <node_region_name>Магаданская область</node_region_name>
+    <root_kladr>41</root_kladr>
+    <node_kladr>49</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Камчатский край</root_region_name>
+    <node_region_name>Чукотский автономный округ</node_region_name>
+    <root_kladr>41</root_kladr>
+    <node_kladr>87</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>г. Москва</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>77</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>г. Санкт-Петербург</root_region_name>
+    <node_region_name>Ленинградская область</node_region_name>
+    <root_kladr>78</root_kladr>
+    <node_kladr>47</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>г. Москва</root_region_name>
+    <node_region_name>Калужская область</node_region_name>
+    <root_kladr>77</root_kladr>
+    <node_kladr>40</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Башкортостан</root_region_name>
+    <node_region_name>Челябинская область</node_region_name>
+    <root_kladr>02</root_kladr>
+    <node_kladr>74</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Карелия</root_region_name>
+    <node_region_name>Мурманская область</node_region_name>
+    <root_kladr>10</root_kladr>
+    <node_kladr>51</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Карелия</root_region_name>
+    <node_region_name>Архангельская область</node_region_name>
+    <root_kladr>10</root_kladr>
+    <node_kladr>29</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Карелия</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>10</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Карелия</root_region_name>
+    <node_region_name>Ленинградская область</node_region_name>
+    <root_kladr>10</root_kladr>
+    <node_kladr>47</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Архангельская область</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>29</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Ненецкий автономный округ</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>83</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Самарская область</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>63</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Алтай</root_region_name>
+    <node_region_name>Республика Тыва</node_region_name>
+    <root_kladr>04</root_kladr>
+    <node_kladr>17</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Хакасия</root_region_name>
+    <node_region_name>Республика Тыва</node_region_name>
+    <root_kladr>19</root_kladr>
+    <node_kladr>17</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Бурятия</root_region_name>
+    <node_region_name>Республика Тыва</node_region_name>
+    <root_kladr>03</root_kladr>
+    <node_kladr>17</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Мордовия</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>13</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Мордовия</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>13</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Марий Эл</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>12</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чувашская Республика - Чувашия</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>21</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Луганская Народная Республика</root_region_name>
+    <node_region_name>Белгородская область</node_region_name>
+    <root_kladr>94</root_kladr>
+    <node_kladr>31</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Луганская Народная Республика</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>94</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Саха (Якутия)</root_region_name>
+    <node_region_name>Хабаровский край</node_region_name>
+    <root_kladr>14</root_kladr>
+    <node_kladr>27</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Саха (Якутия)</root_region_name>
+    <node_region_name>Магаданская область</node_region_name>
+    <root_kladr>14</root_kladr>
+    <node_kladr>49</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Саха (Якутия)</root_region_name>
+    <node_region_name>Чукотский автономный округ</node_region_name>
+    <root_kladr>14</root_kladr>
+    <node_kladr>87</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Крым</root_region_name>
+    <node_region_name>Херсонская область</node_region_name>
+    <root_kladr>91</root_kladr>
+    <node_kladr>95</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Донецкая Народная Республика</root_region_name>
+    <node_region_name>Луганская Народная Республика</node_region_name>
+    <root_kladr>93</root_kladr>
+    <node_kladr>94</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Донецкая Народная Республика</root_region_name>
+    <node_region_name>Запорожская область</node_region_name>
+    <root_kladr>93</root_kladr>
+    <node_kladr>90</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Луганская Народная Республика</root_region_name>
+    <node_region_name>Донецкая Народная Республика</node_region_name>
+    <root_kladr>94</root_kladr>
+    <node_kladr>93</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Тыва</root_region_name>
+    <node_region_name>Республика Алтай</node_region_name>
+    <root_kladr>17</root_kladr>
+    <node_kladr>04</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Тыва</root_region_name>
+    <node_region_name>Республика Хакасия</node_region_name>
+    <root_kladr>17</root_kladr>
+    <node_kladr>19</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Тыва</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>17</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Тыва</root_region_name>
+    <node_region_name>Иркутская область</node_region_name>
+    <root_kladr>17</root_kladr>
+    <node_kladr>38</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Тыва</root_region_name>
+    <node_region_name>Республика Бурятия</node_region_name>
+    <root_kladr>17</root_kladr>
+    <node_kladr>03</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Ханты-Мансийский автономный округ - Югра</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>86</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Ямало-Ненецкий автономный округ</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>89</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Алтай</root_region_name>
+    <node_region_name>Алтайский край</node_region_name>
+    <root_kladr>04</root_kladr>
+    <node_kladr>22</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Алтай</root_region_name>
+    <node_region_name>Кемеровская область - Кузбасс</node_region_name>
+    <root_kladr>04</root_kladr>
+    <node_kladr>42</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Алтай</root_region_name>
+    <node_region_name>Республика Хакасия</node_region_name>
+    <root_kladr>04</root_kladr>
+    <node_kladr>19</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Хакасия</root_region_name>
+    <node_region_name>Республика Алтай</node_region_name>
+    <root_kladr>19</root_kladr>
+    <node_kladr>04</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Хакасия</root_region_name>
+    <node_region_name>Кемеровская область - Кузбасс</node_region_name>
+    <root_kladr>19</root_kladr>
+    <node_kladr>42</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Хакасия</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>19</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Саха (Якутия)</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>14</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Саха (Якутия)</root_region_name>
+    <node_region_name>Иркутская область</node_region_name>
+    <root_kladr>14</root_kladr>
+    <node_kladr>38</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Саха (Якутия)</root_region_name>
+    <node_region_name>Забайкальский край</node_region_name>
+    <root_kladr>14</root_kladr>
+    <node_kladr>75</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Саха (Якутия)</root_region_name>
+    <node_region_name>Амурская область</node_region_name>
+    <root_kladr>14</root_kladr>
+    <node_kladr>28</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Бурятия</root_region_name>
+    <node_region_name>Иркутская область</node_region_name>
+    <root_kladr>03</root_kladr>
+    <node_kladr>38</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Бурятия</root_region_name>
+    <node_region_name>Забайкальский край</node_region_name>
+    <root_kladr>03</root_kladr>
+    <node_kladr>75</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Адыгея (Адыгея)</root_region_name>
+    <node_region_name>Краснодарский край</node_region_name>
+    <root_kladr>01</root_kladr>
+    <node_kladr>23</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Калмыкия</root_region_name>
+    <node_region_name>Ростовская область</node_region_name>
+    <root_kladr>08</root_kladr>
+    <node_kladr>61</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Калмыкия</root_region_name>
+    <node_region_name>Волгоградская область</node_region_name>
+    <root_kladr>08</root_kladr>
+    <node_kladr>34</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Калмыкия</root_region_name>
+    <node_region_name>Астраханская область</node_region_name>
+    <root_kladr>08</root_kladr>
+    <node_kladr>30</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Калмыкия</root_region_name>
+    <node_region_name>Республика Дагестан</node_region_name>
+    <root_kladr>08</root_kladr>
+    <node_kladr>05</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Калмыкия</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>08</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Дагестан</root_region_name>
+    <node_region_name>Республика Калмыкия</node_region_name>
+    <root_kladr>05</root_kladr>
+    <node_kladr>08</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Дагестан</root_region_name>
+    <node_region_name>Чеченская Республика</node_region_name>
+    <root_kladr>05</root_kladr>
+    <node_kladr>20</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Дагестан</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>05</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чеченская Республика</root_region_name>
+    <node_region_name>Республика Дагестан</node_region_name>
+    <root_kladr>20</root_kladr>
+    <node_kladr>05</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чеченская Республика</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>20</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чеченская Республика</root_region_name>
+    <node_region_name>Республика Ингушетия</node_region_name>
+    <root_kladr>20</root_kladr>
+    <node_kladr>06</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чеченская Республика</root_region_name>
+    <node_region_name>Республика Северная Осетия - Алания</node_region_name>
+    <root_kladr>20</root_kladr>
+    <node_kladr>15</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Ингушетия</root_region_name>
+    <node_region_name>Чеченская Республика</node_region_name>
+    <root_kladr>06</root_kladr>
+    <node_kladr>20</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Ингушетия</root_region_name>
+    <node_region_name>Республика Северная Осетия - Алания</node_region_name>
+    <root_kladr>06</root_kladr>
+    <node_kladr>15</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Северная Осетия - Алания</root_region_name>
+    <node_region_name>Чеченская Республика</node_region_name>
+    <root_kladr>15</root_kladr>
+    <node_kladr>20</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Северная Осетия - Алания</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>15</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Северная Осетия - Алания</root_region_name>
+    <node_region_name>Республика Ингушетия</node_region_name>
+    <root_kladr>15</root_kladr>
+    <node_kladr>06</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Северная Осетия - Алания</root_region_name>
+    <node_region_name>Кабардино-Балкарская Республика</node_region_name>
+    <root_kladr>15</root_kladr>
+    <node_kladr>07</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кабардино-Балкарская Республика</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>07</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кабардино-Балкарская Республика</root_region_name>
+    <node_region_name>Республика Северная Осетия - Алания</node_region_name>
+    <root_kladr>07</root_kladr>
+    <node_kladr>15</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кабардино-Балкарская Республика</root_region_name>
+    <node_region_name>Карачаево-Черкесская Республика</node_region_name>
+    <root_kladr>07</root_kladr>
+    <node_kladr>09</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Карачаево-Черкесская Республика</root_region_name>
+    <node_region_name>Краснодарский край</node_region_name>
+    <root_kladr>09</root_kladr>
+    <node_kladr>23</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Карачаево-Черкесская Республика</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>09</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Карачаево-Черкесская Республика</root_region_name>
+    <node_region_name>Кабардино-Балкарская Республика</node_region_name>
+    <root_kladr>09</root_kladr>
+    <node_kladr>07</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чувашская Республика - Чувашия</root_region_name>
+    <node_region_name>Республика Мордовия</node_region_name>
+    <root_kladr>21</root_kladr>
+    <node_kladr>13</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Оренбургская область</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>56</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Башкортостан</root_region_name>
+    <node_region_name>Оренбургская область</node_region_name>
+    <root_kladr>02</root_kladr>
+    <node_kladr>56</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Крым</root_region_name>
+    <node_region_name>Краснодарский край</node_region_name>
+    <root_kladr>91</root_kladr>
+    <node_kladr>23</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Донецкая Народная Республика</root_region_name>
+    <node_region_name>Ростовская область</node_region_name>
+    <root_kladr>93</root_kladr>
+    <node_kladr>61</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Луганская Народная Республика</root_region_name>
+    <node_region_name>Ростовская область</node_region_name>
+    <root_kladr>94</root_kladr>
+    <node_kladr>61</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Пермский край</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>59</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Свердловская область</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>66</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Коми</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>11</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Мордовия</root_region_name>
+    <node_region_name>Чувашская Республика - Чувашия</node_region_name>
+    <root_kladr>13</root_kladr>
+    <node_kladr>21</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Мордовия</root_region_name>
+    <node_region_name>Пензенская область</node_region_name>
+    <root_kladr>13</root_kladr>
+    <node_kladr>58</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Мордовия</root_region_name>
+    <node_region_name>Ульяновская область</node_region_name>
+    <root_kladr>13</root_kladr>
+    <node_kladr>73</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Удмуртская Республика</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>18</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Удмуртская Республика</root_region_name>
+    <node_region_name>Пермский край</node_region_name>
+    <root_kladr>18</root_kladr>
+    <node_kladr>59</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Удмуртская Республика</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>18</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Удмуртская Республика</root_region_name>
+    <node_region_name>Республика Башкортостан</node_region_name>
+    <root_kladr>18</root_kladr>
+    <node_kladr>02</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Марий Эл</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>12</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Марий Эл</root_region_name>
+    <node_region_name>Чувашская Республика - Чувашия</node_region_name>
+    <root_kladr>12</root_kladr>
+    <node_kladr>21</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Марий Эл</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>12</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чувашская Республика - Чувашия</root_region_name>
+    <node_region_name>Республика Марий Эл</node_region_name>
+    <root_kladr>21</root_kladr>
+    <node_kladr>12</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чувашская Республика - Чувашия</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>21</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Чувашская Республика - Чувашия</root_region_name>
+    <node_region_name>Ульяновская область</node_region_name>
+    <root_kladr>21</root_kladr>
+    <node_kladr>73</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Удмуртская Республика</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>18</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Республика Марий Эл</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>12</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Чувашская Республика - Чувашия</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>21</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Ульяновская область</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>73</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Татарстан (Татарстан)</root_region_name>
+    <node_region_name>Республика Башкортостан</node_region_name>
+    <root_kladr>16</root_kladr>
+    <node_kladr>02</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Башкортостан</root_region_name>
+    <node_region_name>Пермский край</node_region_name>
+    <root_kladr>02</root_kladr>
+    <node_kladr>59</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Башкортостан</root_region_name>
+    <node_region_name>Удмуртская Республика</node_region_name>
+    <root_kladr>02</root_kladr>
+    <node_kladr>18</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Башкортостан</root_region_name>
+    <node_region_name>Свердловская область</node_region_name>
+    <root_kladr>02</root_kladr>
+    <node_kladr>66</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Республика Башкортостан</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>02</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>Тверская область</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>69</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>Смоленская область</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>67</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>Ярославская область</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>76</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>Владимирская область</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>33</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>Тульская область</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>71</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>Калужская область</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>40</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Тверская область</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>69</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Ярославская область</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>76</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Костромская область</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>44</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Псковская область</root_region_name>
+    <node_region_name>Тверская область</node_region_name>
+    <root_kladr>60</root_kladr>
+    <node_kladr>69</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Псковская область</root_region_name>
+    <node_region_name>Смоленская область</node_region_name>
+    <root_kladr>60</root_kladr>
+    <node_kladr>67</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новгородская область</root_region_name>
+    <node_region_name>Тверская область</node_region_name>
+    <root_kladr>53</root_kladr>
+    <node_kladr>69</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Костромская область</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>44</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Ивановская область</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>37</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Владимирская область</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>33</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тверская область</root_region_name>
+    <node_region_name>Смоленская область</node_region_name>
+    <root_kladr>69</root_kladr>
+    <node_kladr>67</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тверская область</root_region_name>
+    <node_region_name>Ярославская область</node_region_name>
+    <root_kladr>69</root_kladr>
+    <node_kladr>76</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Смоленская область</root_region_name>
+    <node_region_name>Тверская область</node_region_name>
+    <root_kladr>67</root_kladr>
+    <node_kladr>69</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Смоленская область</root_region_name>
+    <node_region_name>Брянская область</node_region_name>
+    <root_kladr>67</root_kladr>
+    <node_kladr>32</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Смоленская область</root_region_name>
+    <node_region_name>Калужская область</node_region_name>
+    <root_kladr>67</root_kladr>
+    <node_kladr>40</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ярославская область</root_region_name>
+    <node_region_name>Тверская область</node_region_name>
+    <root_kladr>76</root_kladr>
+    <node_kladr>69</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ярославская область</root_region_name>
+    <node_region_name>Костромская область</node_region_name>
+    <root_kladr>76</root_kladr>
+    <node_kladr>44</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ярославская область</root_region_name>
+    <node_region_name>Ивановская область</node_region_name>
+    <root_kladr>76</root_kladr>
+    <node_kladr>37</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ярославская область</root_region_name>
+    <node_region_name>Владимирская область</node_region_name>
+    <root_kladr>76</root_kladr>
+    <node_kladr>33</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Костромская область</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>44</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Костромская область</root_region_name>
+    <node_region_name>Ярославская область</node_region_name>
+    <root_kladr>44</root_kladr>
+    <node_kladr>76</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Костромская область</root_region_name>
+    <node_region_name>Ивановская область</node_region_name>
+    <root_kladr>44</root_kladr>
+    <node_kladr>37</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ивановская область</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>37</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ивановская область</root_region_name>
+    <node_region_name>Ярославская область</node_region_name>
+    <root_kladr>37</root_kladr>
+    <node_kladr>76</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ивановская область</root_region_name>
+    <node_region_name>Костромская область</node_region_name>
+    <root_kladr>37</root_kladr>
+    <node_kladr>44</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ивановская область</root_region_name>
+    <node_region_name>Владимирская область</node_region_name>
+    <root_kladr>37</root_kladr>
+    <node_kladr>33</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Владимирская область</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>33</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Владимирская область</root_region_name>
+    <node_region_name>Ярославская область</node_region_name>
+    <root_kladr>33</root_kladr>
+    <node_kladr>76</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Владимирская область</root_region_name>
+    <node_region_name>Ивановская область</node_region_name>
+    <root_kladr>33</root_kladr>
+    <node_kladr>37</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Владимирская область</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>33</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Владимирская область</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>33</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Тульская область</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>71</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Липецкая область</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>48</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тульская область</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>71</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тульская область</root_region_name>
+    <node_region_name>Калужская область</node_region_name>
+    <root_kladr>71</root_kladr>
+    <node_kladr>40</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тульская область</root_region_name>
+    <node_region_name>Орловская область</node_region_name>
+    <root_kladr>71</root_kladr>
+    <node_kladr>57</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тульская область</root_region_name>
+    <node_region_name>Липецкая область</node_region_name>
+    <root_kladr>71</root_kladr>
+    <node_kladr>48</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Брянская область</root_region_name>
+    <node_region_name>Смоленская область</node_region_name>
+    <root_kladr>32</root_kladr>
+    <node_kladr>67</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Брянская область</root_region_name>
+    <node_region_name>Калужская область</node_region_name>
+    <root_kladr>32</root_kladr>
+    <node_kladr>40</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Брянская область</root_region_name>
+    <node_region_name>Орловская область</node_region_name>
+    <root_kladr>32</root_kladr>
+    <node_kladr>57</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Брянская область</root_region_name>
+    <node_region_name>Курская область</node_region_name>
+    <root_kladr>32</root_kladr>
+    <node_kladr>46</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Калужская область</root_region_name>
+    <node_region_name>Смоленская область</node_region_name>
+    <root_kladr>40</root_kladr>
+    <node_kladr>67</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Калужская область</root_region_name>
+    <node_region_name>Тульская область</node_region_name>
+    <root_kladr>40</root_kladr>
+    <node_kladr>71</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Калужская область</root_region_name>
+    <node_region_name>Брянская область</node_region_name>
+    <root_kladr>40</root_kladr>
+    <node_kladr>32</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Калужская область</root_region_name>
+    <node_region_name>Орловская область</node_region_name>
+    <root_kladr>40</root_kladr>
+    <node_kladr>57</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Орловская область</root_region_name>
+    <node_region_name>Тульская область</node_region_name>
+    <root_kladr>57</root_kladr>
+    <node_kladr>71</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Орловская область</root_region_name>
+    <node_region_name>Брянская область</node_region_name>
+    <root_kladr>57</root_kladr>
+    <node_kladr>32</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Орловская область</root_region_name>
+    <node_region_name>Калужская область</node_region_name>
+    <root_kladr>57</root_kladr>
+    <node_kladr>40</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Орловская область</root_region_name>
+    <node_region_name>Курская область</node_region_name>
+    <root_kladr>57</root_kladr>
+    <node_kladr>46</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Орловская область</root_region_name>
+    <node_region_name>Липецкая область</node_region_name>
+    <root_kladr>57</root_kladr>
+    <node_kladr>48</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курская область</root_region_name>
+    <node_region_name>Брянская область</node_region_name>
+    <root_kladr>46</root_kladr>
+    <node_kladr>32</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курская область</root_region_name>
+    <node_region_name>Орловская область</node_region_name>
+    <root_kladr>46</root_kladr>
+    <node_kladr>57</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курская область</root_region_name>
+    <node_region_name>Белгородская область</node_region_name>
+    <root_kladr>46</root_kladr>
+    <node_kladr>31</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курская область</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>46</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курская область</root_region_name>
+    <node_region_name>Липецкая область</node_region_name>
+    <root_kladr>46</root_kladr>
+    <node_kladr>48</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Белгородская область</root_region_name>
+    <node_region_name>Курская область</node_region_name>
+    <root_kladr>31</root_kladr>
+    <node_kladr>46</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Белгородская область</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>31</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Курская область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>46</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Белгородская область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>31</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Липецкая область</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>48</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Липецкая область</root_region_name>
+    <node_region_name>Тульская область</node_region_name>
+    <root_kladr>48</root_kladr>
+    <node_kladr>71</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Липецкая область</root_region_name>
+    <node_region_name>Орловская область</node_region_name>
+    <root_kladr>48</root_kladr>
+    <node_kladr>57</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Липецкая область</root_region_name>
+    <node_region_name>Курская область</node_region_name>
+    <root_kladr>48</root_kladr>
+    <node_kladr>46</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Липецкая область</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>48</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тамбовская область</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>68</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тамбовская область</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>68</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ростовская область</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>61</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Волгоградская область</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>34</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Саратовская область</root_region_name>
+    <node_region_name>Воронежская область</node_region_name>
+    <root_kladr>64</root_kladr>
+    <node_kladr>36</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Нижегородская область</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>52</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Костромская область</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>44</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пензенская область</root_region_name>
+    <node_region_name>Рязанская область</node_region_name>
+    <root_kladr>58</root_kladr>
+    <node_kladr>62</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Свердловская область</root_region_name>
+    <node_region_name>Ханты-Мансийский автономный округ - Югра</node_region_name>
+    <root_kladr>66</root_kladr>
+    <node_kladr>86</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Омская область</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>55</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Томская область</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>70</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Ханты-Мансийский автономный округ - Югра</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>86</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Омская область</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>55</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Омская область</root_region_name>
+    <node_region_name>Новосибирская область</node_region_name>
+    <root_kladr>55</root_kladr>
+    <node_kladr>54</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Омская область</root_region_name>
+    <node_region_name>Томская область</node_region_name>
+    <root_kladr>55</root_kladr>
+    <node_kladr>70</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новосибирская область</root_region_name>
+    <node_region_name>Омская область</node_region_name>
+    <root_kladr>54</root_kladr>
+    <node_kladr>55</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новосибирская область</root_region_name>
+    <node_region_name>Томская область</node_region_name>
+    <root_kladr>54</root_kladr>
+    <node_kladr>70</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новосибирская область</root_region_name>
+    <node_region_name>Алтайский край</node_region_name>
+    <root_kladr>54</root_kladr>
+    <node_kladr>22</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новосибирская область</root_region_name>
+    <node_region_name>Кемеровская область - Кузбасс</node_region_name>
+    <root_kladr>54</root_kladr>
+    <node_kladr>42</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Томская область</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>70</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Томская область</root_region_name>
+    <node_region_name>Омская область</node_region_name>
+    <root_kladr>70</root_kladr>
+    <node_kladr>55</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Томская область</root_region_name>
+    <node_region_name>Новосибирская область</node_region_name>
+    <root_kladr>70</root_kladr>
+    <node_kladr>54</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Томская область</root_region_name>
+    <node_region_name>Кемеровская область - Кузбасс</node_region_name>
+    <root_kladr>70</root_kladr>
+    <node_kladr>42</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Томская область</root_region_name>
+    <node_region_name>Ханты-Мансийский автономный округ - Югра</node_region_name>
+    <root_kladr>70</root_kladr>
+    <node_kladr>86</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Томская область</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>70</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кемеровская область - Кузбасс</root_region_name>
+    <node_region_name>Новосибирская область</node_region_name>
+    <root_kladr>42</root_kladr>
+    <node_kladr>54</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кемеровская область - Кузбасс</root_region_name>
+    <node_region_name>Томская область</node_region_name>
+    <root_kladr>42</root_kladr>
+    <node_kladr>70</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кемеровская область - Кузбасс</root_region_name>
+    <node_region_name>Алтайский край</node_region_name>
+    <root_kladr>42</root_kladr>
+    <node_kladr>22</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кемеровская область - Кузбасс</root_region_name>
+    <node_region_name>Республика Алтай</node_region_name>
+    <root_kladr>42</root_kladr>
+    <node_kladr>04</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кемеровская область - Кузбасс</root_region_name>
+    <node_region_name>Республика Хакасия</node_region_name>
+    <root_kladr>42</root_kladr>
+    <node_kladr>19</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кемеровская область - Кузбасс</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>42</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Иркутская область</root_region_name>
+    <node_region_name>Красноярский край</node_region_name>
+    <root_kladr>38</root_kladr>
+    <node_kladr>24</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Иркутская область</root_region_name>
+    <node_region_name>Республика Саха (Якутия)</node_region_name>
+    <root_kladr>38</root_kladr>
+    <node_kladr>14</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Иркутская область</root_region_name>
+    <node_region_name>Республика Бурятия</node_region_name>
+    <root_kladr>38</root_kladr>
+    <node_kladr>03</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Иркутская область</root_region_name>
+    <node_region_name>Забайкальский край</node_region_name>
+    <root_kladr>38</root_kladr>
+    <node_kladr>75</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Амурская область</root_region_name>
+    <node_region_name>Республика Саха (Якутия)</node_region_name>
+    <root_kladr>28</root_kladr>
+    <node_kladr>14</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Амурская область</root_region_name>
+    <node_region_name>Забайкальский край</node_region_name>
+    <root_kladr>28</root_kladr>
+    <node_kladr>75</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Амурская область</root_region_name>
+    <node_region_name>Еврейская автономная область</node_region_name>
+    <root_kladr>28</root_kladr>
+    <node_kladr>79</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Магаданская область</root_region_name>
+    <node_region_name>Республика Саха (Якутия)</node_region_name>
+    <root_kladr>49</root_kladr>
+    <node_kladr>14</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Саратовская область</root_region_name>
+    <node_region_name>Пензенская область</node_region_name>
+    <root_kladr>64</root_kladr>
+    <node_kladr>58</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Саратовская область</root_region_name>
+    <node_region_name>Ульяновская область</node_region_name>
+    <root_kladr>64</root_kladr>
+    <node_kladr>73</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Оренбургская область</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>56</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Оренбургская область</root_region_name>
+    <node_region_name>Республика Башкортостан</node_region_name>
+    <root_kladr>56</root_kladr>
+    <node_kladr>02</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Оренбургская область</root_region_name>
+    <node_region_name>Челябинская область</node_region_name>
+    <root_kladr>56</root_kladr>
+    <node_kladr>74</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Пермский край</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>59</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Удмуртская Республика</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>18</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Республика Марий Эл</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>12</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Свердловская область</root_region_name>
+    <node_region_name>Пермский край</node_region_name>
+    <root_kladr>66</root_kladr>
+    <node_kladr>59</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Свердловская область</root_region_name>
+    <node_region_name>Республика Башкортостан</node_region_name>
+    <root_kladr>66</root_kladr>
+    <node_kladr>02</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Свердловская область</root_region_name>
+    <node_region_name>Челябинская область</node_region_name>
+    <root_kladr>66</root_kladr>
+    <node_kladr>74</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Свердловская область</root_region_name>
+    <node_region_name>Курганская область</node_region_name>
+    <root_kladr>66</root_kladr>
+    <node_kladr>45</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Свердловская область</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>66</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пензенская область</root_region_name>
+    <node_region_name>Республика Мордовия</node_region_name>
+    <root_kladr>58</root_kladr>
+    <node_kladr>13</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пензенская область</root_region_name>
+    <node_region_name>Ульяновская область</node_region_name>
+    <root_kladr>58</root_kladr>
+    <node_kladr>73</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ульяновская область</root_region_name>
+    <node_region_name>Республика Мордовия</node_region_name>
+    <root_kladr>73</root_kladr>
+    <node_kladr>13</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ульяновская область</root_region_name>
+    <node_region_name>Чувашская Республика - Чувашия</node_region_name>
+    <root_kladr>73</root_kladr>
+    <node_kladr>21</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ульяновская область</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>73</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ульяновская область</root_region_name>
+    <node_region_name>Пензенская область</node_region_name>
+    <root_kladr>73</root_kladr>
+    <node_kladr>58</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Челябинская область</root_region_name>
+    <node_region_name>Свердловская область</node_region_name>
+    <root_kladr>74</root_kladr>
+    <node_kladr>66</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Челябинская область</root_region_name>
+    <node_region_name>Республика Башкортостан</node_region_name>
+    <root_kladr>74</root_kladr>
+    <node_kladr>02</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Челябинская область</root_region_name>
+    <node_region_name>Курганская область</node_region_name>
+    <root_kladr>74</root_kladr>
+    <node_kladr>45</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курганская область</root_region_name>
+    <node_region_name>Свердловская область</node_region_name>
+    <root_kladr>45</root_kladr>
+    <node_kladr>66</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курганская область</root_region_name>
+    <node_region_name>Челябинская область</node_region_name>
+    <root_kladr>45</root_kladr>
+    <node_kladr>74</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Курганская область</root_region_name>
+    <node_region_name>Тюменская область</node_region_name>
+    <root_kladr>45</root_kladr>
+    <node_kladr>72</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Свердловская область</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>66</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Курганская область</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>45</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Московская область</root_region_name>
+    <node_region_name>г. Москва</node_region_name>
+    <root_kladr>50</root_kladr>
+    <node_kladr>77</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Мурманская область</root_region_name>
+    <node_region_name>Архангельская область</node_region_name>
+    <root_kladr>51</root_kladr>
+    <node_kladr>29</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Мурманская область</root_region_name>
+    <node_region_name>Республика Карелия</node_region_name>
+    <root_kladr>51</root_kladr>
+    <node_kladr>10</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Архангельская область</root_region_name>
+    <node_region_name>Мурманская область</node_region_name>
+    <root_kladr>29</root_kladr>
+    <node_kladr>51</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Архангельская область</root_region_name>
+    <node_region_name>Республика Карелия</node_region_name>
+    <root_kladr>29</root_kladr>
+    <node_kladr>10</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Архангельская область</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>29</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Архангельская область</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>29</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Архангельская область</root_region_name>
+    <node_region_name>Ненецкий автономный округ</node_region_name>
+    <root_kladr>29</root_kladr>
+    <node_kladr>83</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Архангельская область</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>29</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Республика Карелия</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>10</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Ленинградская область</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>47</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Новгородская область</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>53</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ленинградская область</root_region_name>
+    <node_region_name>г. Санкт-Петербург</node_region_name>
+    <root_kladr>47</root_kladr>
+    <node_kladr>78</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ленинградская область</root_region_name>
+    <node_region_name>Республика Карелия</node_region_name>
+    <root_kladr>47</root_kladr>
+    <node_kladr>10</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ленинградская область</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>47</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ленинградская область</root_region_name>
+    <node_region_name>Псковская область</node_region_name>
+    <root_kladr>47</root_kladr>
+    <node_kladr>60</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ленинградская область</root_region_name>
+    <node_region_name>Новгородская область</node_region_name>
+    <root_kladr>47</root_kladr>
+    <node_kladr>53</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Псковская область</root_region_name>
+    <node_region_name>Ленинградская область</node_region_name>
+    <root_kladr>60</root_kladr>
+    <node_kladr>47</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Псковская область</root_region_name>
+    <node_region_name>Новгородская область</node_region_name>
+    <root_kladr>60</root_kladr>
+    <node_kladr>53</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новгородская область</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>53</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новгородская область</root_region_name>
+    <node_region_name>Ленинградская область</node_region_name>
+    <root_kladr>53</root_kladr>
+    <node_kladr>47</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Новгородская область</root_region_name>
+    <node_region_name>Псковская область</node_region_name>
+    <root_kladr>53</root_kladr>
+    <node_kladr>60</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тверская область</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>69</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тверская область</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>69</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тверская область</root_region_name>
+    <node_region_name>Псковская область</node_region_name>
+    <root_kladr>69</root_kladr>
+    <node_kladr>60</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тверская область</root_region_name>
+    <node_region_name>Новгородская область</node_region_name>
+    <root_kladr>69</root_kladr>
+    <node_kladr>53</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Смоленская область</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>67</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Смоленская область</root_region_name>
+    <node_region_name>Псковская область</node_region_name>
+    <root_kladr>67</root_kladr>
+    <node_kladr>60</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ярославская область</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>76</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ярославская область</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>76</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Костромская область</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>44</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Владимирская область</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>33</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тульская область</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>71</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Калужская область</root_region_name>
+    <node_region_name>г. Москва</node_region_name>
+    <root_kladr>40</root_kladr>
+    <node_kladr>77</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Калужская область</root_region_name>
+    <node_region_name>Московская область</node_region_name>
+    <root_kladr>40</root_kladr>
+    <node_kladr>50</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Самарская область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>63</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Саратовская область</root_region_name>
+    <node_region_name>Самарская область</node_region_name>
+    <root_kladr>64</root_kladr>
+    <node_kladr>63</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Оренбургская область</root_region_name>
+    <node_region_name>Самарская область</node_region_name>
+    <root_kladr>56</root_kladr>
+    <node_kladr>63</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Архангельская область</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>29</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Вологодская область</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>35</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Кировская область</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>43</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Свердловская область</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>66</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ульяновская область</root_region_name>
+    <node_region_name>Самарская область</node_region_name>
+    <root_kladr>73</root_kladr>
+    <node_kladr>63</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Республика Коми</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>11</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тюменская область</root_region_name>
+    <node_region_name>Ненецкий автономный округ</node_region_name>
+    <root_kladr>72</root_kladr>
+    <node_kladr>83</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Иркутская область</root_region_name>
+    <node_region_name>Республика Тыва</node_region_name>
+    <root_kladr>38</root_kladr>
+    <node_kladr>17</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Самарская область</root_region_name>
+    <node_region_name>Саратовская область</node_region_name>
+    <root_kladr>63</root_kladr>
+    <node_kladr>64</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Самарская область</root_region_name>
+    <node_region_name>Оренбургская область</node_region_name>
+    <root_kladr>63</root_kladr>
+    <node_kladr>56</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Республика Мордовия</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>13</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Тамбовская область</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>68</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Республика Мордовия</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>13</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Липецкая область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>48</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Тамбовская область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>68</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Ростовская область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>61</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Волгоградская область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>34</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Воронежская область</root_region_name>
+    <node_region_name>Саратовская область</node_region_name>
+    <root_kladr>36</root_kladr>
+    <node_kladr>64</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Липецкая область</root_region_name>
+    <node_region_name>Тамбовская область</node_region_name>
+    <root_kladr>48</root_kladr>
+    <node_kladr>68</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тамбовская область</root_region_name>
+    <node_region_name>Липецкая область</node_region_name>
+    <root_kladr>68</root_kladr>
+    <node_kladr>48</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тамбовская область</root_region_name>
+    <node_region_name>Саратовская область</node_region_name>
+    <root_kladr>68</root_kladr>
+    <node_kladr>64</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ростовская область</root_region_name>
+    <node_region_name>Краснодарский край</node_region_name>
+    <root_kladr>61</root_kladr>
+    <node_kladr>23</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ростовская область</root_region_name>
+    <node_region_name>Волгоградская область</node_region_name>
+    <root_kladr>61</root_kladr>
+    <node_kladr>34</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ростовская область</root_region_name>
+    <node_region_name>Республика Калмыкия</node_region_name>
+    <root_kladr>61</root_kladr>
+    <node_kladr>08</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ростовская область</root_region_name>
+    <node_region_name>Ставропольский край</node_region_name>
+    <root_kladr>61</root_kladr>
+    <node_kladr>26</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Волгоградская область</root_region_name>
+    <node_region_name>Ростовская область</node_region_name>
+    <root_kladr>34</root_kladr>
+    <node_kladr>61</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Волгоградская область</root_region_name>
+    <node_region_name>Астраханская область</node_region_name>
+    <root_kladr>34</root_kladr>
+    <node_kladr>30</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Волгоградская область</root_region_name>
+    <node_region_name>Республика Калмыкия</node_region_name>
+    <root_kladr>34</root_kladr>
+    <node_kladr>08</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Волгоградская область</root_region_name>
+    <node_region_name>Саратовская область</node_region_name>
+    <root_kladr>34</root_kladr>
+    <node_kladr>64</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Астраханская область</root_region_name>
+    <node_region_name>Волгоградская область</node_region_name>
+    <root_kladr>30</root_kladr>
+    <node_kladr>34</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Астраханская область</root_region_name>
+    <node_region_name>Республика Калмыкия</node_region_name>
+    <root_kladr>30</root_kladr>
+    <node_kladr>08</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Саратовская область</root_region_name>
+    <node_region_name>Тамбовская область</node_region_name>
+    <root_kladr>64</root_kladr>
+    <node_kladr>68</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Саратовская область</root_region_name>
+    <node_region_name>Волгоградская область</node_region_name>
+    <root_kladr>64</root_kladr>
+    <node_kladr>34</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Саратовская область</root_region_name>
+    <node_region_name>Оренбургская область</node_region_name>
+    <root_kladr>64</root_kladr>
+    <node_kladr>56</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Оренбургская область</root_region_name>
+    <node_region_name>Саратовская область</node_region_name>
+    <root_kladr>56</root_kladr>
+    <node_kladr>64</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пензенская область</root_region_name>
+    <node_region_name>Тамбовская область</node_region_name>
+    <root_kladr>58</root_kladr>
+    <node_kladr>68</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Пензенская область</root_region_name>
+    <node_region_name>Саратовская область</node_region_name>
+    <root_kladr>58</root_kladr>
+    <node_kladr>64</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ульяновская область</root_region_name>
+    <node_region_name>Саратовская область</node_region_name>
+    <root_kladr>73</root_kladr>
+    <node_kladr>64</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Челябинская область</root_region_name>
+    <node_region_name>Оренбургская область</node_region_name>
+    <root_kladr>74</root_kladr>
+    <node_kladr>56</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ростовская область</root_region_name>
+    <node_region_name>Донецкая Народная Республика</node_region_name>
+    <root_kladr>61</root_kladr>
+    <node_kladr>93</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Ростовская область</root_region_name>
+    <node_region_name>Луганская Народная Республика</node_region_name>
+    <root_kladr>61</root_kladr>
+    <node_kladr>94</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Амурская область</root_region_name>
+    <node_region_name>Хабаровский край</node_region_name>
+    <root_kladr>28</root_kladr>
+    <node_kladr>27</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Сахалинская область</root_region_name>
+    <node_region_name>Хабаровский край</node_region_name>
+    <root_kladr>65</root_kladr>
+    <node_kladr>27</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Сахалинская область</root_region_name>
+    <node_region_name>Камчатский край</node_region_name>
+    <root_kladr>65</root_kladr>
+    <node_kladr>41</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Магаданская область</root_region_name>
+    <node_region_name>Хабаровский край</node_region_name>
+    <root_kladr>49</root_kladr>
+    <node_kladr>27</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Магаданская область</root_region_name>
+    <node_region_name>Камчатский край</node_region_name>
+    <root_kladr>49</root_kladr>
+    <node_kladr>41</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Магаданская область</root_region_name>
+    <node_region_name>Чукотский автономный округ</node_region_name>
+    <root_kladr>49</root_kladr>
+    <node_kladr>87</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Херсонская область</root_region_name>
+    <node_region_name>Республика Крым</node_region_name>
+    <root_kladr>95</root_kladr>
+    <node_kladr>91</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Херсонская область</root_region_name>
+    <node_region_name>Запорожская область</node_region_name>
+    <root_kladr>95</root_kladr>
+    <node_kladr>90</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Запорожская область</root_region_name>
+    <node_region_name>Донецкая Народная Республика</node_region_name>
+    <root_kladr>90</root_kladr>
+    <node_kladr>93</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Запорожская область</root_region_name>
+    <node_region_name>Херсонская область</node_region_name>
+    <root_kladr>90</root_kladr>
+    <node_kladr>95</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Самарская область</root_region_name>
+    <node_region_name>Республика Татарстан (Татарстан)</node_region_name>
+    <root_kladr>63</root_kladr>
+    <node_kladr>16</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Самарская область</root_region_name>
+    <node_region_name>Ульяновская область</node_region_name>
+    <root_kladr>63</root_kladr>
+    <node_kladr>73</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Архангельская область</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>29</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Вологодская область</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>35</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Республика Марий Эл</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>12</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Нижегородская область</root_region_name>
+    <node_region_name>Чувашская Республика - Чувашия</node_region_name>
+    <root_kladr>52</root_kladr>
+    <node_kladr>21</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Костромская область</root_region_name>
+    <node_region_name>Кировская область</node_region_name>
+    <root_kladr>44</root_kladr>
+    <node_kladr>43</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Рязанская область</root_region_name>
+    <node_region_name>Пензенская область</node_region_name>
+    <root_kladr>62</root_kladr>
+    <node_kladr>58</node_kladr>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <root_region_name>Тамбовская область</root_region_name>
+    <node_region_name>Пензенская область</node_region_name>
+    <root_kladr>68</root_kladr>
+    <node_kladr>58</node_kladr>
+  </DATA_RECORD>
+</regions_graph>
